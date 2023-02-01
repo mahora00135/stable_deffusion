@@ -1,0 +1,12 @@
+torch 
+torchvision
+transformers==4.19.2 
+diffusers 
+invisible-watermark
+omegaconf
+einops
+pytorch_lightning
+taming-transformers
+taming-transformers-rom1504
+clip
+kornia
